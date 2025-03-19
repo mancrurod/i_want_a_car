@@ -1,0 +1,401 @@
+brand,model,model_type,price_euros,mileage,manual_automatic,date,fuel,power,year
+Land Rover,Range Rover Evoque,2.2L TD4 Prestige 4x4 Aut.,9900,140000,Automático,2014-12-01,Diésel,110 kW (150 CV),2014
+SEAT,Ibiza,ST 1.4TDI CR Ecomotive S&S Reference75,3900,306000,Manual,2016-09-01,Diésel,55 kW (75 CV),2016
+SEAT,Ibiza,1.6TDI CR Reference Tech,6499,116000,Manual,2014-05-01,Diésel,66 kW (90 CV),2014
+BMW,116,116d Efficient Dynamics Edition,10990,10690,Manual,2012-05-01,Diésel,85 kW (116 CV),2012
+SsangYong,Rexton,W 200 e-Xdi Premium 4x2,8490,154000,Manual,2015-05-01,Diésel,114 kW (155 CV),2015
+Volkswagen,Golf,1.6 Trendline,5500,220000,Manual,2007-02-01,Gasolina,75 kW (102 CV),2007
+Citroen,,CITROEN Berlingo M1 Pequeño  Manual de 4 Puertas,6350,187980,Manual,2018-06-01,Diésel,74 kW (101 CV),2018
+Opel,Zafira,1.9CDTi Enjoy 120,2990,135199,Manual,2007-02-01,Diésel,88 kW (120 CV),2007
+Lancia,Phedra,2.2JTD 16v Platino,5990,140000,Manual,2008-08-01,Diésel,125 kW (170 CV),2008
+Toyota,Corolla,Verso 2.2D4D Sport 177,4000,194000,Manual,2007-06-01,Diésel,130 kW (177 CV),2007
+Skoda,Fabia,1.9SDi Classic,950,337000,Manual,2000-07-01,Diésel,47 kW (64 CV),2000
+Maserati,Ghibli,Diesel Aut. 275,23000,174000,Automático,2014-12-01,Diésel,202 kW (275 CV),2014
+BMW,318,318i,2200,182000,Manual,1999-05-01,Gasolina,87 kW (118 CV),1999
+Mercedes-Benz,A 180,180CDI,5900,164500,Manual,2011-01-01,Diésel,80 kW (109 CV),2011
+Citroen,C4 Cactus,1.6 BlueHDi Shine 100,6590,126350,Manual,2016-06-01,Diésel,73 kW (99 CV),2016
+MG,ZS,2.5 V6 Core 180,12990,37000,Manual,2023-05-01,Gasolina,130 kW (177 CV),2023
+Audi,TT,Coupé 1.8T 180,2400,292000,Manual,1999-11-01,Gasolina,132 kW (179 CV),1999
+Nissan,Almera,1.5dCi Line Up,1990,258000,Manual,2006-04-01,Diésel,60 kW (82 CV),2006
+Audi,A5,2.0 TFSI 125kW S tronic g-tron Sportback,16890,89500,Automático,2018-05-01,Gasolina,125 kW (170 CV),2018
+Kia,Sportage,1.6 CRDi MHEV Business DCT 4x4 136,22000,800,Automático,2025-01-01,Diésel,100 kW (136 CV),2025
+Kia,Sportage,1.6 CRDi MHEV Business DCT 4x4 136,22000,800,Automático,2025-01-01,Diésel,100 kW (136 CV),2025
+Nissan,Qashqai,1.5dCi Tekna 4x2 17´´,9590,103700,Manual,2014-06-01,Diésel,81 kW (110 CV),2014
+Audi,A3,Sportback 30 TFSI S line S tronic,22690,39836,Automático,2023-04-01,Gasolina,81 kW (110 CV),2023
+Mazda,3,1.6CRTD Active,6500,190000,Manual,2011-03-01,Diésel,80 kW (109 CV),2011
+CUPRA,Formentor,1.5 TSI 150,21390,33350,Manual,2021-03-01,Gasolina,110 kW (150 CV),2021
+CUPRA,Formentor,1.5 TSI 150,17995,26141,Manual,2021-05-01,Gasolina,110 kW (150 CV),2021
+Kia,Stonic,1.2 DPi Drive,14072,32180,Manual,2023-07-01,Gasolina,62 kW (84 CV),2023
+Skoda,Octavia,2.0TDI RS 170,4500,318000,Manual,2007-03-01,Diésel,125 kW (170 CV),2007
+Skoda,Yeti,1.2 TSI Ambition 4x2,6100,200000,Manual,2011-01-01,Gasolina,77 kW (105 CV),2011
+Mercedes-Benz,E 350,Coupé 350CDI BE Prime Edition Aut.,8999,260000,Automático,2009-12-01,Diésel,170 kW (231 CV),2009
+BMW,X1,2.0D SDRIVE 150CV 18D 5P QUOT;4X2 QUOT;,13990,191151,Manual,2020-08-01,Diésel,110 kW (150 CV),2020
+Audi,A1,Sportback 30 TFSI,12990,98361,Manual,2019-01-01,Gasolina,85 kW (116 CV),2019
+Renault,Clio,Life dCi 55 kW (75 CV),7300,99000,Manual,2019-05-01,Diésel,55 kW (75 CV),2019
+CUPRA,Formentor,1.5 TSI 150,22100,26896,Manual,2024-03-01,Gasolina,110 kW (150 CV),2024
+DS Automobiles,DS 9,E-TENSE PERFORMANCE LINE+,18990,103203,Automático,2021-06-01,Electro/Gasolina,165 kW (224 CV),2021
+SEAT,Ibiza,1.0 TSI S&S FR 110,13955,23525,Automático,2023-12-01,Gasolina,81 kW (110 CV),2023
+Mercedes-Benz,S 350,BT 4M Aut.,14800,146000,Automático,2011-09-01,Diésel,190 kW (258 CV),2011
+Volkswagen,Polo,1.6TDI Advance 90,5990,172500,Manual,2011-03-01,Diésel,66 kW (90 CV),2011
+Volkswagen,T-Cross,1.0 TSI Advance 81kW,16990,38000,Manual,2022-09-01,Gasolina,81 kW (110 CV),2022
+Opel,Corsa,1.2 XEL S/S Edition 75,8909,66221,Manual,2020-12-01,Gasolina,55 kW (75 CV),2020
+Volkswagen,T-Cross,1.0 TSI Advance 81kW,16990,38000,Manual,2022-09-01,Gasolina,81 kW (110 CV),2022
+Mazda,6,2.0CRTD Luxury,5700,217000,Manual,2008-12-01,Diésel,103 kW (140 CV),2008
+Citroen,C5,2.0HDI Exclusive CAS 163,5990,253000,Automático,2011-09-01,Diésel,120 kW (163 CV),2011
+Opel,Corsa,1.2 XEL S/S Edition 75,8909,66221,Manual,2020-12-01,Gasolina,55 kW (75 CV),2020
+Kia,Sportage,1.6 GDi Concept 4x2 132,15490,42839,Manual,2020-01-01,Gasolina,97 kW (132 CV),2020
+Opel,Insignia,1.6CDTI S&S Selective 136,12990,144415,Manual,2020-06-01,Diésel,100 kW (136 CV),2020
+Audi,A4,Avant 2.7TDI Multitronic,7800,175000,Automático,2007-03-01,Diésel,132 kW (179 CV),2007
+Jaguar,XE,2.0 Diesel Pure 180,13200,125786,Manual,2016-08-01,Diésel,132 kW (179 CV),2016
+Nissan,Qashqai,1.5dCi Tekna Premium 4x2 17´´,7500,255000,Manual,2013-02-01,Diésel,81 kW (110 CV),2013
+Mercedes-Benz,CLA 180,,15490,86000,Manual,2013-08-01,Gasolina,90 kW (122 CV),2013
+Lamborghini,Aventador,Roadster SVJ,669999,9500,Automático,2020-07-01,Gasolina,566 kW (770 CV),2020
+Ford,Mondeo,2.0TDCi Ghia Aut. 140,4990,199000,Automático,2009-06-01,Diésel,103 kW (140 CV),2009
+Kia,Carens,1.7CRDI 115CV CONCEPT 5P,5990,211957,Manual,2015-09-01,Diésel,85 kW (116 CV),2015
+Porsche,Taycan,4S Cross Turismo,69990,29000,Automático,2023-05-01,Electro/Gasolina,360 kW (489 CV),2023
+Ford,Focus,1.6 Trend,1800,168000,Manual,2004-05-01,Gasolina,74 kW (101 CV),2004
+Opel,Frontera,2.2DTI Limited 120,4490,219000,Manual,2002-12-01,Diésel,88 kW (120 CV),2002
+SEAT,Ibiza,1.2 TSI Style,6990,160000,Manual,2015-07-01,Gasolina,66 kW (90 CV),2015
+Renault,Captur,TCe Techno 67kW,17400,8600,Manual,2023-05-01,Gasolina,67 kW (91 CV),2023
+Nissan,Qashqai,1.6dCi S&S Tekna Sport 4x2 17´´,8490,110000,Manual,2012-10-01,Diésel,96 kW (131 CV),2012
+Volkswagen,Golf,1.2 TSI BMT Edition 110,9990,74900,Manual,2016-01-01,Gasolina,81 kW (110 CV),2016
+Peugeot,3008,1.2 PureTech S&S Allure 130,11300,169000,Manual,2022-01-01,Gasolina,96 kW (131 CV),2022
+Peugeot,406,Berlina 109cv Manual de 4 Puertas,2995,228000,Manual,2002-11-01,Diésel,80 kW (109 CV),2002
+DS Automobiles,DS 3 Crossback,BlueHDi 73 kW Manual SO CHIC,11490,79202,Manual,2020-01-01,Diésel,73 kW (99 CV),2020
+Peugeot,208,1.2 PureTech Access 82,6450,56250,Manual,2014-05-01,Gasolina,60 kW (82 CV),2014
+Citroen,C4,Grand Picasso 1.2 PureTech S&S Shine 130,7990,99000,Manual,2017-01-01,Gasolina,96 kW (131 CV),2017
+Audi,Q5,Sportback 40 TDI quattro-ultra Black line S tronic,50990,102000,Automático,2021-08-01,Diésel,150 kW (204 CV),2021
+Volkswagen,Passat,1.4TSI Edition Plus,5990,182000,Manual,2010-06-01,Gasolina,90 kW (122 CV),2010
+Mercedes-Benz,CLA 180,D,19890,84000,Automático,2018-08-01,Diésel,80 kW (109 CV),2018
+Alfa Romeo,156,1.8 T.S. Progression,4900,100000,Manual,2000-10-01,Gasolina,106 kW (144 CV),2000
+Ford,Focus,1.0 Ecoboost Auto-S&S Titanium 125,6490,143000,Manual,2013-05-01,Gasolina,92 kW (125 CV),2013
+Mercedes-Benz,SLK 230,K,5990,140000,Manual,2000-06-01,Gasolina,142 kW (193 CV),2000
+Citroen,Berlingo,BlueHDi S&S Talla M Feel 100,11569,147000,Manual,2019-11-01,Diésel,75 kW (102 CV),2019
+Audi,A3,1.4 TFSI etron S tronic Sportback,15990,59000,Automático,2017-01-01,Electro/Gasolina,150 kW (204 CV),2017
+Porsche,Macan,Aut.,39950,110000,Automático,2018-06-01,Gasolina,185 kW (252 CV),2018
+Hyundai,i30,1.4 Comfort,4700,190000,Manual,2007-12-01,Gasolina,80 kW (109 CV),2007
+Mercedes-Benz,S 320,CDI Aut.,13500,206543,Automático,2010-06-01,Diésel,150 kW (204 CV),2010
+BMW,X4,xDrive 20d,17890,193063,Automático,2016-01-01,Diésel,140 kW (190 CV),2016
+DS Automobiles,DS 3 Crossback,BlueHDi Be Chic 100,12500,93194,Manual,2020-01-01,Diésel,75 kW (102 CV),2020
+BMW,218,218iA Gran Coupé Sport,29490,9850,Automático,2024-02-01,Gasolina,100 kW (136 CV),2024
+Citroen,C3,1.2 PureTech S&S Feel 83,9523,22298,Manual,2019-06-01,Gasolina,60 kW (82 CV),2019
+Hyundai,i30,1.4 Comfort,4700,190000,Manual,2007-12-01,Gasolina,80 kW (109 CV),2007
+Mercedes-Benz,S 320,CDI Aut.,13500,206543,Automático,2010-06-01,Diésel,150 kW (204 CV),2010
+BMW,X4,xDrive 20d,17890,193063,Automático,2016-01-01,Diésel,140 kW (190 CV),2016
+BMW,535,535iA Touring Luxury,14490,269900,Automático,2014-08-01,Gasolina,225 kW (306 CV),2014
+DS Automobiles,DS 3 Crossback,BlueHDi Be Chic 100,12500,93194,Manual,2020-01-01,Diésel,75 kW (102 CV),2020
+Maserati,Ghibli,Diesel Aut. 275,26800,135000,Automático,2015-03-01,Diésel,202 kW (275 CV),2015
+BMW,218,218iA Gran Coupé Sport,29490,9850,Automático,2024-02-01,Gasolina,100 kW (136 CV),2024
+Citroen,C3,1.2 PureTech S&S Feel 83,9523,22298,Manual,2019-06-01,Gasolina,60 kW (82 CV),2019
+Mercedes-Benz,E 320,320CDI 4M Avantgarde Aut.,7497,213999,Automático,2006-10-01,Diésel,165 kW (224 CV),2006
+Nissan,Qashqai,1.6dCi Acenta 4x2 XTronic,11500,139926,Automático,2015-01-01,Diésel,96 kW (131 CV),2015
+Citroen,C4,1.6HDi Tonic,7990,114500,Manual,2014-05-01,Diésel,68 kW (92 CV),2014
+Land Rover,Range Rover,4.4 V8 Vogue,11980,154000,Automático,2002-10-01,Gasolina,210 kW (286 CV),2002
+Land Rover,Range Rover Evoque,2.0D S FWD 150,21490,79000,Manual,2020-08-01,Diésel,110 kW (150 CV),2020
+Mercedes-Benz,E 320,320CDI Avantgarde Aut.,6900,284500,Automático,2005-12-01,Diésel,165 kW (224 CV),2005
+Ford,S-Max,2.0TDCI Titanium 140,7500,240000,Manual,2012-07-01,Diésel,103 kW (140 CV),2012
+Renault,Talisman,1.6dCi Energy Intens 96kW,10500,190721,Manual,2016-04-01,Diésel,96 kW (131 CV),2016
+Peugeot,5008,1.6HDI Premium CMP,5450,203000,Automático,2009-10-01,Diésel,80 kW (109 CV),2009
+Volkswagen,Polo,1.0 BMT Edition 55kW,7690,161200,Manual,2017-02-01,Gasolina,55 kW (75 CV),2017
+BMW,X4,xDrive 20dA,34900,108400,Automático,2021-01-01,Diésel,140 kW (190 CV),2021
+Alfa Romeo,Stelvio,2.2D 210CV EXECUTIVE 5P,16890,197021,Manual,2019-09-01,Diésel,155 kW (211 CV),2019
+Audi,S4,Avant S-Tronic,21950,158000,Automático,2010-10-01,Gasolina,245 kW (333 CV),2010
+Kia,Picanto,X LINE 1.0 TGDI 100CV,8990,28565,Manual,2018-08-01,Gasolina,74 kW (101 CV),2018
+Nissan,X-Trail,SE Comfort 2.0 dCi 150 CV,12400,189000,Manual,2012-04-01,Diésel,110 kW (150 CV),2012
+Toyota,Auris,130 Active,9990,113000,Manual,2015-03-01,Gasolina,97 kW (132 CV),2015
+Subaru,Forester,2.0TD Executive,16900,42000,Manual,2015-10-01,Diésel,108 kW (147 CV),2015
+Citroen,C5,2.0HDI Business,5490,210300,Manual,2009-04-01,Diésel,103 kW (140 CV),2009
+Tesla,Model S,100D,23490,103000,Automático,2015-05-01,Electro/Gasolina,310 kW (421 CV),2015
+Jaguar,F-Pace,2.0i4D Pure AWD 180,13400,215000,Manual,2016-06-01,Diésel,132 kW (179 CV),2016
+Suzuki,Swift,1.3I 92CV 3P,3990,120054,Manual,2008-11-01,Gasolina,68 kW (92 CV),2008
+Kia,Ceed / cee'd,1.4CRDi Drive,7490,95967,Manual,2013-07-01,Diésel,66 kW (90 CV),2013
+Audi,A3,Sportback 35TDI Black line,24990,63135,Manual,2022-02-01,Diésel,110 kW (150 CV),2022
+Land Rover,Range Rover Evoque,2.0TD4 Pure 4WD 150,14500,190000,Manual,2015-01-01,Diésel,110 kW (150 CV),2015
+Opel,Mokka,1.2 T 130cv Auto GS Line,16300,24278,Automático,2021-11-01,Gasolina,96 kW (131 CV),2021
+Toyota,Corolla,125H Business,14990,46990,Automático,2020-01-01,Electro/Gasolina,90 kW (122 CV),2020
+Citroen,C3,1.2 PureTech S&S Feel 83,7904,80899,Manual,2019-07-01,Gasolina,60 kW (82 CV),2019
+Renault,Talisman,dCi Blue Limited 110kW,14190,45393,Manual,2020-09-01,Diésel,110 kW (150 CV),2020
+Peugeot,508,2.0BlueHDi S&S GT Line EAT8 160,15490,162000,Automático,2020-06-01,Diésel,120 kW (163 CV),2020
+Land Rover,Range Rover Sport,3.0SDV6 SE Aut.,17990,137411,Automático,2012-09-01,Diésel,188 kW (256 CV),2012
+Alfa Romeo,4C,1.7 Tbi TCT 240,64900,26900,Automático,2016-09-01,Gasolina,177 kW (241 CV),2016
+Audi,RS Q3,Sportback 2.5 TFSI quattro S tronic,59900,19742,Automático,2021-04-01,Gasolina,294 kW (400 CV),2021
+Nissan,Qashqai,DIG-T 103kW (140CV) mHEV 4x2 Acenta,21360,14800,Manual,2023-09-01,Electro/Gasolina,103 kW (140 CV),2023
+Audi,A3,Sportback 1.6TDI Ambition 105,8800,265000,Manual,2013-11-01,Diésel,77 kW (105 CV),2013
+Mercedes-Benz,CLK 200,Cabrio 230 K Avantgarde,6999,140000,Manual,1999-06-01,Gasolina,142 kW (193 CV),1999
+Peugeot,2008,Allure Pack Eléctrico 100kW,16000,38990,Automático,2023-03-01,Electro/Gasolina,100 kW (136 CV),2023
+Mazda,2,1.5 Style 66kW,9900,85800,Manual,2016-11-01,Gasolina,66 kW (90 CV),2016
+Audi,S3,Sedán 2.0 TFSI quattro S tronic 228kW,27000,152500,Automático,2017-01-01,Gasolina,228 kW (310 CV),2017
+Nissan,Juke,1.5dCi Visia,5900,276232,Manual,2012-11-01,Diésel,81 kW (110 CV),2012
+Audi,Q7,3.0TDI quattro Tiptronic DPF,8950,306000,Automático,2006-03-01,Diésel,172 kW (234 CV),2006
+Cadillac,SRX,3.6 V6 Elegance Plus AWD Aut.,7900,133900,Automático,2006-03-01,Gasolina,190 kW (258 CV),2006
+Jaguar,F-Pace,2.0i4D Prestige Aut. AWD 180,15990,105613,Automático,2016-06-01,Diésel,132 kW (179 CV),2016
+Volkswagen,Tiguan,2.0TDI BMT Business 4M DSG 140,10890,175000,Automático,2014-06-01,Diésel,103 kW (140 CV),2014
+Peugeot,208,1.5 75 CV DIESEL VAN,6900,122500,Manual,2020-02-01,Diésel,55 kW (75 CV),2020
+Nissan,Leaf,40 kWh Acenta Access,10890,95992,Automático,2020-03-01,Electro/Gasolina,110 kW (150 CV),2020
+Mitsubishi,Outlander,200 MPI Motion 2WD 7pl. CVT,16990,73000,Automático,2019-02-01,Gasolina,110 kW (150 CV),2019
+Alfa Romeo,Stelvio,2.2 Executive RWD 190 Aut.,21790,66730,Automático,2020-08-01,Diésel,140 kW (190 CV),2020
+Peugeot,Rifter,1.5BlueHDi S&S Standard Allure 130,13223,80652,Manual,2020-07-01,Diésel,96 kW (131 CV),2020
+Jeep,Compass,2.2CRD Limited 4x2,6990,191000,Manual,2012-08-01,Diésel,100 kW (136 CV),2012
+Volkswagen,Touareg,3.0TDI V6 BMT Premium 245 Tiptronic,17400,180000,Automático,2012-03-01,Diésel,180 kW (245 CV),2012
+Land Rover,Discovery Sport,2.0TD4 SE 4x4 150,14500,152000,Manual,2017-01-01,Diésel,110 kW (150 CV),2017
+SEAT,Tarraco,2.0 TDI F&F Xcellence 4 Drive,21900,89950,Manual,2020-12-01,Diésel,140 kW (190 CV),2020
+Jeep,Compass,2.2CRD Limited 4x2,6990,191000,Manual,2012-08-01,Diésel,100 kW (136 CV),2012
+Volkswagen,Touareg,3.0TDI V6 BMT Premium 245 Tiptronic,17400,180000,Automático,2012-03-01,Diésel,180 kW (245 CV),2012
+Land Rover,Discovery Sport,2.0TD4 SE 4x4 150,14500,152000,Manual,2017-01-01,Diésel,110 kW (150 CV),2017
+SEAT,Tarraco,2.0 TDI F&F Xcellence 4 Drive,21900,89950,Manual,2020-12-01,Diésel,140 kW (190 CV),2020
+Mitsubishi,ASX,180DI-D Motion 4WD,9900,162300,Manual,2015-10-01,Diésel,85 kW (116 CV),2015
+Mercedes-Benz,GLK 220,350CDI 4M Aut.,16990,175000,Automático,2010-06-01,Diésel,165 kW (224 CV),2010
+Opel,Corsa,1.2 XEL S/S Edition 75,9995,29999,Manual,2022-01-01,Gasolina,55 kW (75 CV),2022
+Citroen,C4,1.2 e-THP S&S Collection,7900,62905,Manual,2014-09-01,Gasolina,96 kW (131 CV),2014
+Peugeot,3008,1.6 BlueHDi Style EAT6 120,13490,145100,Automático,2019-01-01,Diésel,88 kW (120 CV),2019
+Peugeot,208,1.2 PureTech Active 110,7099,104273,Manual,2015-11-01,Gasolina,81 kW (110 CV),2015
+MINI,John Cooper Works,,11990,135000,Manual,2008-12-01,Gasolina,155 kW (211 CV),2008
+Peugeot,208,1.2 PureTech Style 82,6990,60967,Manual,2016-10-01,Gasolina,60 kW (82 CV),2016
+Citroen,C5,1.6 THP Seduction,10499,64000,Manual,2022-08-01,Gasolina,115 kW (156 CV),2022
+Opel,Zafira,1.7CDTi Energy,5500,143000,Manual,2009-09-01,Diésel,81 kW (110 CV),2009
+Citroen,Berlingo,BlueHDi S&S Talla M Live 100,11983,111000,Manual,2020-09-01,Diésel,75 kW (102 CV),2020
+Nissan,Qashqai,DIG-T 103kW (140CV) mHEV 4x2 Acenta,21270,8197,Manual,2023-11-01,Electro/Gasolina,103 kW (140 CV),2023
+Fiat,500,1.4 Lounge,5990,128000,Automático,2008-06-01,Gasolina,74 kW (101 CV),2008
+Renault,Megane E-Tech,Equilibre Standard Charge EV40 96kW,19900,117,Automático,2023-05-01,Electro/Gasolina,96 kW (131 CV),2023
+Audi,A4,2.0TDI DPF 143,9800,211158,Manual,2011-01-01,Diésel,105 kW (143 CV),2011
+Citroen,C4,1.4i 16v SX,2670,184826,Manual,2005-01-01,Gasolina,66 kW (90 CV),2005
+Chevrolet,Lacetti,2.0TCDI 16v CDX,2950,149671,Manual,2009-04-01,Diésel,89 kW (121 CV),2009
+Toyota,C-HR,125H Style Plus,16800,118273,Automático,2019-06-01,Electro/Gasolina,90 kW (122 CV),2019
+Volkswagen,Golf,2.0 FSI Sportline,6990,120000,Manual,2005-01-01,Gasolina,110 kW (150 CV),2005
+Peugeot,Rifter,Access Standard BlueHDi 73kW,12950,151000,Manual,2018-01-01,Diésel,73 kW (99 CV),2018
+Mercedes-Benz,GLE 400,Coupé 400d 4Matic Aut.,69800,96000,Automático,2021-07-01,Diésel,243 kW (330 CV),2021
+Honda,CR-V,1.6i-DTEC Elegance 4x4 160,13990,209000,Manual,2016-02-01,Diésel,118 kW (160 CV),2016
+Hyundai,i30,1.5 DPI Klass SLX 110,17720,6846,Manual,2024-05-01,Gasolina,81 kW (110 CV),2024
+Renault,Megane,S.T. 1.5dCi Energy Business 66kW,8995,149000,Manual,2017-09-01,Diésel,66 kW (90 CV),2017
+BMW,320,320d,3990,292000,Automático,2002-11-01,Diésel,110 kW (150 CV),2002
+Jaguar,XE,2.0 Diesel Prestige 180,11990,121000,Manual,2016-08-01,Diésel,132 kW (179 CV),2016
+Land Rover,Range Rover Evoque,2.0TD4 HSE 4WD Aut. 150,17990,156000,Automático,2018-01-01,Diésel,110 kW (150 CV),2018
+Nissan,Qashqai,1.6dCi S&S Acenta 4x2,8160,183500,Manual,2013-09-01,Diésel,96 kW (131 CV),2013
+SEAT,Altea,1.6TDI CR Copa Style E-eco. S&S,6780,195000,Manual,2013-04-01,Diésel,77 kW (105 CV),2013
+Peugeot,5008,1.6 BlueHDI Allure 7 pl. 120,12490,169214,Manual,2017-01-01,Diésel,88 kW (120 CV),2017
+Dacia,Spring,Electric Expression 45 33kW,13900,10000,Automático,2023-05-01,Electro/Gasolina,33 kW (45 CV),2023
+Citroen,Xsara,1.9D SX,2500,129000,Manual,1998-06-01,Diésel,50 kW (68 CV),1998
+Mercedes-Benz,C 220,d,20950,153700,Automático,2018-08-01,Diésel,125 kW (170 CV),2018
+Mercedes-Benz,E 350,Coupé 350CDI BE Prime Edition Aut.,14850,123000,Automático,2010-12-01,Diésel,170 kW (231 CV),2010
+Lynk & Co,01,1.5T PHEV,19790,78370,Automático,2022-08-01,Electro/Gasolina,192 kW (261 CV),2022
+Citroen,C3,1.2 VTi Tonic,4950,166922,Manual,2013-07-01,Gasolina,60 kW (82 CV),2013
+Mercedes-Benz,C 220,d,20950,153700,Automático,2018-08-01,Diésel,125 kW (170 CV),2018
+Mercedes-Benz,E 350,Coupé 350CDI BE Prime Edition Aut.,14850,123000,Automático,2010-12-01,Diésel,170 kW (231 CV),2010
+Lynk & Co,01,1.5T PHEV,19790,78370,Automático,2022-08-01,Electro/Gasolina,192 kW (261 CV),2022
+Citroen,C3,1.2 VTi Tonic,4950,166922,Manual,2013-07-01,Gasolina,60 kW (82 CV),2013
+BMW,X7,xDrive 30dA,48900,144300,Automático,2019-09-01,Diésel,195 kW (265 CV),2019
+Skoda,Kodiaq,2.0TDI Sportline 4x4 DSG 142kW,14400,253498,Automático,2017-07-01,Diésel,142 kW (193 CV),2017
+Opel,Corsa,1.3CDTI Enjoy,1600,240000,Manual,2003-04-01,Diésel,51 kW (69 CV),2003
+SEAT,Ibiza,1.0 TSI 81KW FR 5P,15600,15769,Manual,2023-11-01,Gasolina,81 kW (110 CV),2023
+Lexus,LM,350h Luxury Modern Black 6pl.,118000,8000,Automático,2024-06-01,Electro/Gasolina,184 kW (250 CV),2024
+Fiat,Ducato,Combi 35 3.0 Natural Power L2 136CV,16100,74628,Manual,2021-08-01,Gas licuado (GLP),100 kW (136 CV),2021
+Lexus,NX 300,300h Executive 4WD Tecno + Navibox,16850,260000,Automático,2016-03-01,Electro/Gasolina,145 kW (197 CV),2016
+Mercedes-Benz,GLB 200,d,27700,86792,Automático,2021-02-01,Diésel,110 kW (150 CV),2021
+Audi,A4,2.0TDIe Advance Edition DPF 136,11490,172000,Manual,2012-03-01,Diésel,100 kW (136 CV),2012
+Renault,Grand Scenic,1.6dCi Energy Dynamique 5pl.,4400,292000,Manual,2012-03-01,Diésel,96 kW (131 CV),2012
+Mercedes-Benz,A 200,200d,15900,133000,Automático,2016-06-01,Diésel,100 kW (136 CV),2016
+Hyundai,TUCSON,1.6 CRDI Klass 4x2,13490,214000,Manual,2021-10-01,Diésel,85 kW (116 CV),2021
+Peugeot,Rifter,1.5BlueHDi S&S Standard Access 100,9490,190000,Manual,2019-06-01,Diésel,73 kW (99 CV),2019
+MINI,Cooper,SE,21900,11000,Automático,2024-01-01,Electro/Gasolina,135 kW (184 CV),2024
+Mitsubishi,Outlander,PHEV Kaiteki 4WD,14990,151000,Automático,2016-08-01,Electro/Gasolina,149 kW (203 CV),2016
+Volkswagen,Arteon,2.0TDI 110kW,19790,125000,Manual,2019-03-01,Diésel,110 kW (150 CV),2019
+Citroen,C8,2.2HDi 16v Premier II,5800,156545,Manual,2005-08-01,Diésel,96 kW (131 CV),2005
+Mercedes-Benz,GLC 220,Coupé 220d 4Matic 9G-Tronic,37900,106714,Automático,2020-11-01,Diésel,143 kW (194 CV),2020
+Nissan,Qashqai,1.5dCi Acenta 4x2 85kW,15830,87443,Manual,2019-12-01,Diésel,85 kW (116 CV),2019
+Citroen,C3,1.2 PureTech S&S Feel 83,7904,80899,Manual,2019-07-01,Gasolina,60 kW (82 CV),2019
+Mercedes-Benz,GLA 250,250e,30990,68000,Automático,2020-12-01,Electro/Gasolina,160 kW (218 CV),2020
+BMW,X6,xDrive 40dA,16900,237000,Automático,2011-01-01,Diésel,225 kW (306 CV),2011
+Dacia,Duster,1.5dCi Ambiance,7999,194500,Manual,2011-12-01,Diésel,63 kW (86 CV),2011
+BMW,520,520dA,15999,170000,Automático,2014-09-01,Diésel,140 kW (190 CV),2014
+Peugeot,308,1.6HDI FAP Sport 6 vel.,4200,225779,Manual,2008-12-01,Diésel,80 kW (109 CV),2008
+Ford,Mondeo,2.0 TDCi Ghia,2500,270000,Manual,2004-08-01,Diésel,96 kW (131 CV),2004
+BMW,X1,xDrive 18dA,10990,158000,Automático,2012-12-01,Diésel,105 kW (143 CV),2012
+CUPRA,Leon,2.0 TSI DSG 140KW,24890,22300,Automático,2024-01-01,Gasolina,140 kW (190 CV),2024
+Volkswagen,ID. Buzz,Pro 150 kW (204 CV),36000,17510,Automático,2023-12-01,Electro/Gasolina,150 kW (204 CV),2023
+Land Rover,Range Rover Evoque,2.0 TD4 150cv Auto. 4x4 SE,14499,188244,Automático,2015-11-01,Diésel,110 kW (150 CV),2015
+Ford,Kuga,2.0TDCi Auto S&S Titanium 4x2 150,13999,119919,Manual,2018-05-01,Diésel,110 kW (150 CV),2018
+Toyota,C-HR,200H GR Sport Premiere Edition AWD,30950,12988,Automático,2024-04-01,Electro/Gasolina,144 kW (196 CV),2024
+Toyota,Corolla,Verso 2.2D4D Luna,6990,159915,Manual,2008-12-01,Diésel,100 kW (136 CV),2008
+Dacia,Duster,1.5Blue dCi Essential 4x2 85kW,12900,152000,Manual,2020-12-01,Diésel,85 kW (116 CV),2020
+Toyota,Corolla,125H Business,14990,46990,Automático,2020-01-01,Electro/Gasolina,90 kW (122 CV),2020
+Ferrari,12 Cilindri,12Cilindri,750000,23,Automático,2025-01-01,Gasolina,610 kW (829 CV),2025
+Toyota,Corolla,Verso 2.2D4D Luna,6990,159915,Manual,2008-12-01,Diésel,100 kW (136 CV),2008
+Dacia,Duster,1.5Blue dCi Essential 4x2 85kW,12900,152000,Manual,2020-12-01,Diésel,85 kW (116 CV),2020
+Volkswagen,T-Cross,1.0 TSI Advance 81kW,19990,20000,Manual,2024-01-01,Gasolina,81 kW (110 CV),2024
+Toyota,Corolla,125H Business,14990,46990,Automático,2020-01-01,Electro/Gasolina,90 kW (122 CV),2020
+Ferrari,12 Cilindri,12Cilindri,750000,23,Automático,2025-01-01,Gasolina,610 kW (829 CV),2025
+Renault,Clio,1.2 Pack Authentique,2790,130000,Manual,2004-04-01,Gasolina,44 kW (60 CV),2004
+Peugeot,308,1.2 PureTech S&S Active Pack 130,14900,59120,Manual,2023-03-01,Gasolina,96 kW (131 CV),2023
+Audi,A4,Avant 2.0TDI Multitronic DPF 143,8540,221754,Automático,2010-07-01,Diésel,105 kW (143 CV),2010
+Fiat,500,1.2 Lounge,7450,82078,Manual,2020-02-01,Gasolina,51 kW (69 CV),2020
+BMW,X3,xDrive 30dA,16500,168000,Automático,2014-02-01,Diésel,190 kW (258 CV),2014
+BMW,225,225xe iPerformance Active Tourer,14990,108000,Automático,2019-05-01,Electro/Gasolina,165 kW (224 CV),2019
+Volvo,V50,D5 Momentum Aut.,4950,240000,Automático,2006-10-01,Diésel,132 kW (179 CV),2006
+Audi,A4,1.8,3610,151757,Manual,1999-06-01,Gasolina,132 kW (179 CV),1999
+Audi,RS3,Sportback quattro S tronic 294kW,59900,68750,Automático,2022-07-01,Gasolina,294 kW (400 CV),2022
+Toyota,,1.0 72CV Trendy,11300,57932,Manual,2023-01-01,Gasolina,53 kW (72 CV),2023
+Alfa Romeo,Tonale,1.6 Diesel 131cv TCT Sprint,27290,9850,Automático,2024-02-01,Diésel,96 kW (131 CV),2024
+Infiniti,QX50,3.0d GT Premium Aut.,12900,156000,Automático,2015-05-01,Diésel,175 kW (238 CV),2015
+Opel,Corsa,1.2T XHL 74KW YES 5P,14850,1,Manual,2025-02-01,Gasolina,74 kW (101 CV),2025
+Opel,Corsa,1.4 Business 90,6990,79965,Manual,2017-01-01,Gasolina,66 kW (90 CV),2017
+Kia,Sportage,1.6 T-GDi Concept 150,20900,27000,Manual,2023-08-01,Gasolina,112 kW (152 CV),2023
+BMW,X3,sDrive 18d Essential Edition,13900,167000,Manual,2013-03-01,Diésel,105 kW (143 CV),2013
+Audi,A4,Avant 2.0TDI 110kW,18990,73000,Automático,2017-01-01,Diésel,110 kW (150 CV),2017
+Nissan,Qashqai,1.6 Acenta 4x2,10499,92496,Manual,2014-01-01,Gasolina,84 kW (114 CV),2014
+Renault,Clio,1.5dCi eco2 S&S Energy Dynamique 90,7990,81277,Manual,2013-05-01,Diésel,66 kW (90 CV),2013
+Mercedes-Benz,C 220,220d 9G-Tronic,24800,117000,Automático,2021-01-01,Diésel,143 kW (194 CV),2021
+CUPRA,Leon,1.5 eTSI 110 DSG,23700,16500,Automático,2024-04-01,Gasolina,110 kW (150 CV),2024
+Porsche,Cayenne,4.5 Turbo S Aut.,15990,166000,Automático,2006-12-01,Gasolina,383 kW (521 CV),2006
+Fiat,500,1.0 Hybrid Monotrim 52kW,10490,22018,Manual,2024-01-01,Gasolina,52 kW (71 CV),2024
+SEAT,Ateca,2.0 TDI Xcellence Edition,17332,108894,Automático,2019-11-01,Diésel,110 kW (150 CV),2019
+Kia,Sportage,1.7CRDi VGT Eco-Dynamics Drive 4x2,14990,72500,Manual,2017-01-01,Diésel,85 kW (116 CV),2017
+Volkswagen,Sharan,2.0TDI Advance BMT DSG 140,11990,135000,Automático,2011-04-01,Diésel,103 kW (140 CV),2011
+Peugeot,207,1.4 VTi 16v Sport,4999,96722,Manual,2009-07-01,Gasolina,70 kW (95 CV),2009
+Mercedes-Benz,C 63 AMG,S 7G Plus,47990,102000,Automático,2015-03-01,Gasolina,375 kW (510 CV),2015
+Kia,Ceed / cee'd,1.4CRDI WGT Concept 90,8400,180000,Manual,2015-06-01,Diésel,66 kW (90 CV),2015
+MINI,Cooper,S,11990,72000,Manual,2009-10-01,Gasolina,128 kW (174 CV),2009
+Jeep,Avenger,1.2 Ehybrid Altitude 100,18190,26074,Automático,2024-02-01,Gasolina,74 kW (101 CV),2024
+Opel,Astra,1.6CDTi S/S Selective Pro 110,11990,61088,Manual,2020-11-01,Diésel,81 kW (110 CV),2020
+Mercedes-Benz,S 350,BT 4M (4.75) Aut.,30000,238000,Automático,2016-08-01,Diésel,190 kW (258 CV),2016
+Toyota,Yaris,MY'20 72CV,9900,42639,Manual,2019-12-01,Gasolina,53 kW (72 CV),2019
+Porsche,Taycan,4S,69900,34000,Automático,2020-08-01,Electro/Gasolina,390 kW (530 CV),2020
+Toyota,Yaris,MY'20 72CV,9900,42639,Manual,2019-12-01,Gasolina,53 kW (72 CV),2019
+Porsche,Taycan,4S,69900,34000,Automático,2020-08-01,Electro/Gasolina,390 kW (530 CV),2020
+SEAT,Altea XL,1.8 TSI Copa Style DSG,7200,105000,Automático,2010-02-01,Gasolina,118 kW (160 CV),2010
+Mercedes-Benz,A 200,d AMG Line,12900,251000,Automático,2015-10-01,Diésel,100 kW (136 CV),2015
+BMW,M3,,49900,89000,Manual,2009-02-01,Gasolina,309 kW (420 CV),2009
+Citroen,C4,Grand Picasso 2.0BlueHDi S&S Exclusive EAT6,7950,212000,Automático,2014-01-01,Diésel,110 kW (150 CV),2014
+Peugeot,Rifter,1.5BlueHDi S&S Standard Access 100,11990,160000,Manual,2021-01-01,Diésel,73 kW (99 CV),2021
+Subaru,Forester,2.0i Hybrid Sport Plus CVT,28990,1524,Automático,2023-12-01,Electro/Gasolina,111 kW (151 CV),2023
+Nissan,X-Trail,2.2DCi Elegance,5550,234000,Manual,2006-04-01,Diésel,100 kW (136 CV),2006
+Volkswagen,Touareg,3.0TDI V6 Premium Tiptronic Elegance 4M 170kW,37990,110000,Automático,2022-01-01,Diésel,170 kW (231 CV),2022
+SEAT,Ibiza,1.2 TSI S&S FR,8990,114802,Manual,2017-06-01,Gasolina,66 kW (90 CV),2017
+Peugeot,2008,1.6 BlueHDI Style 100,9990,92658,Manual,2017-03-01,Diésel,73 kW (99 CV),2017
+Subaru,Tribeca,3.6 Limited 5st Aut.,11900,143000,Automático,2009-05-01,Gasolina,190 kW (258 CV),2009
+Volkswagen,CC,2.0TDI BMT DSG 177,13990,99000,Automático,2013-12-01,Diésel,130 kW (177 CV),2013
+Renault,Laguna,1.5dCi Dynamique TomTom,5490,192000,Manual,2011-05-01,Diésel,81 kW (110 CV),2011
+Hyundai,IONIQ,EV 28KWH KLASS 120 CV 5P,13400,39080,Automático,2018-10-01,Electro/Gasolina,88 kW (120 CV),2018
+Jeep,Avenger,1.2 Altitude 100,18500,11348,Manual,2023-07-01,Gasolina,74 kW (101 CV),2023
+Peugeot,Rifter,1.5 BLUEHDI 73KW ACTIVE STANDARD 5P,13400,129000,Manual,2020-02-01,Diésel,74 kW (101 CV),2020
+Citroen,C-Elysée,1.6 VTi Seduction 115,5990,130000,Manual,2015-06-01,Gasolina,85 kW (116 CV),2015
+Mercedes-Benz,C 200,9G-Tronic,39900,20000,Automático,2022-03-01,Gasolina,150 kW (204 CV),2022
+Volvo,XC60,B4 Core AWD Aut.,35091,22053,Automático,2023-12-01,Diésel,145 kW (197 CV),2023
+Mazda,CX-60,Exclusive-Line Hybrid AWD,31140,61085,Automático,2023-01-01,Electro/Gasolina,241 kW (328 CV),2023
+Volkswagen,Tiguan,2.0TDI BMT Excellence 4M DSG 140,13000,162700,Automático,2012-10-01,Diésel,103 kW (140 CV),2012
+SEAT,Arona,1.0 TGI S&S Style 90,10790,130000,Manual,2020-01-01,Gas licuado (GLP),66 kW (90 CV),2020
+Mercedes-Benz,C 220,220d 9G-Tronic,37990,34000,Automático,2022-03-01,Diésel,147 kW (200 CV),2022
+Audi,A3,Sportback 30TDI S line S tronic,23980,65119,Automático,2022-04-01,Diésel,85 kW (116 CV),2022
+Peugeot,2008,1.2 PureTech S&S Signature 82,10190,18047,Manual,2019-01-01,Gasolina,60 kW (82 CV),2019
+CUPRA,Formentor,1.5 TSI 150,21900,28100,Manual,2021-06-01,Gasolina,110 kW (150 CV),2021
+Mercedes-Benz,CLK 200,270CDI,6990,133000,Manual,2004-06-01,Diésel,125 kW (170 CV),2004
+Mercedes-Benz,C 200,9G-Tronic,20746,115301,Automático,2019-07-01,Gasolina,135 kW (184 CV),2019
+Peugeot,208,1.2 PureTech Style 82,6800,98798,Manual,2017-05-01,Gasolina,60 kW (82 CV),2017
+Mercedes-Benz,E 220,Coupé 220CDI (4.75),19790,65000,Automático,2014-03-01,Diésel,125 kW (170 CV),2014
+Fiat,500,1.0 Hybrid Dolcevita 52kW,10890,18638,Manual,2024-01-01,Gasolina,52 kW (71 CV),2024
+Lynk & Co,01,1.5T PHEV,23391,33721,Automático,2023-04-01,Electro/Gasolina,192 kW (261 CV),2023
+Mercedes-Benz,A 200,200d 4Matic 8G-DCT,25000,94717,Automático,2020-11-01,Diésel,110 kW (150 CV),2020
+Audi,A3,Sportback 35TDI Black line,25490,59940,Manual,2022-03-01,Diésel,110 kW (150 CV),2022
+Volvo,XC90,B5 Business Plus 7pl. AWD Aut.,37791,99673,Automático,2020-11-01,Diésel,173 kW (235 CV),2020
+Peugeot,607,2.7HDI Pack Titanio Aut.,5990,228543,Automático,2010-03-01,Diésel,150 kW (204 CV),2010
+Nissan,Qashqai,1.6dCi Visia 4x2,12900,178000,Manual,2018-08-01,Diésel,96 kW (131 CV),2018
+Kia,Ceed / cee'd,1.0 T-GDI Drive,16270,21430,Manual,2023-06-01,Gasolina,88 kW (120 CV),2023
+Lynk & Co,01,1.5T PHEV,23391,33721,Automático,2023-04-01,Electro/Gasolina,192 kW (261 CV),2023
+Mercedes-Benz,A 200,200d 4Matic 8G-DCT,25000,94717,Automático,2020-11-01,Diésel,110 kW (150 CV),2020
+BMW,M5,M5A CS,136990,39200,Automático,2021-06-01,Gasolina,467 kW (635 CV),2021
+Audi,A3,Sportback 35TDI Black line,25490,59940,Manual,2022-03-01,Diésel,110 kW (150 CV),2022
+Volvo,XC90,B5 Business Plus 7pl. AWD Aut.,37791,99673,Automático,2020-11-01,Diésel,173 kW (235 CV),2020
+Peugeot,607,2.7HDI Pack Titanio Aut.,5990,228543,Automático,2010-03-01,Diésel,150 kW (204 CV),2010
+Nissan,Qashqai,1.6dCi Visia 4x2,12900,178000,Manual,2018-08-01,Diésel,96 kW (131 CV),2018
+Kia,Ceed / cee'd,1.0 T-GDI Drive,16270,21430,Manual,2023-06-01,Gasolina,88 kW (120 CV),2023
+Porsche,Macan,GTS Aut.,47490,116000,Automático,2018-01-01,Gasolina,265 kW (360 CV),2018
+Ford,Focus,1.6 16v. Wagon Ambiente,2990,110000,Manual,2000-09-01,Gasolina,74 kW (101 CV),2000
+Mercedes-Benz,CLA 250,Shooting Brake 250e 8G-DCT,27173,34868,Automático,2021-01-01,Electro/Gasolina,160 kW (218 CV),2021
+Opel,Corsa,1.2T XHL S/S GS 100,12690,16036,Manual,2024-04-01,Gasolina,74 kW (101 CV),2024
+Toyota,Prius,1.8 VVT-I PHEV HYBRID ADVANCE AUTO 122 5P,21450,56953,Automático,2021-06-01,Electro/Gasolina,90 kW (122 CV),2021
+Citroen,C4,Grand Spacetourer 1.2 PureTech S&S Live 130,10500,169000,Manual,2021-04-01,Gasolina,96 kW (131 CV),2021
+BMW,X6,xDrive 30dA,55900,104169,Automático,2020-12-01,Diésel,195 kW (265 CV),2020
+Citroen,C-Elysée,1.5BlueHDi S&S Origins 100,9990,42000,Manual,2020-01-01,Diésel,75 kW (102 CV),2020
+Chevrolet,Camaro,Coupé Aut.,32000,68500,Automático,2017-01-01,Gasolina,- kW (- CV),2017
+Opel,Corsa,1.2T XHL S/S GS 100,12690,17167,Manual,2024-04-01,Gasolina,74 kW (101 CV),2024
+Lexus,GS 300,300h Eco,20980,93867,Automático,2016-11-01,Electro/Gasolina,164 kW (223 CV),2016
+Land Rover,Range Rover Velar,2.0D I4 MHEV S 4WD Aut. 204,26999,180000,Automático,2021-04-01,Diésel,150 kW (204 CV),2021
+Mercedes-Benz,B 200,-CLASS 1.8 CDI 136 5P,14990,96451,Manual,2015-02-01,Diésel,100 kW (136 CV),2015
+Ford,Focus,Trend,4490,200145,Manual,2011-12-01,Diésel,85 kW (116 CV),2011
+SEAT,Leon,2.0TDI FR1,7599,169000,Manual,2007-09-01,Diésel,125 kW (170 CV),2007
+Dodge,Caliber,2.0CRD S,5800,125000,Manual,2006-07-01,Diésel,103 kW (140 CV),2006
+Land Rover,Range Rover Evoque,2.2L SD4 Sicilian Yellow LE 4x4 190 Aut.,17990,149000,Automático,2013-09-01,Diésel,140 kW (190 CV),2013
+Volkswagen,Passat,Variant 1.6TDI Business Edition BMT,9990,149000,Manual,2013-07-01,Diésel,77 kW (105 CV),2013
+Mercedes-Benz,E 220,CDI,5500,320000,Manual,2002-01-01,Diésel,110 kW (150 CV),2002
+Audi,Q7,3.0TDI Ambition Tiptronic,15990,180000,Automático,2011-02-01,Diésel,176 kW (239 CV),2011
+Fiat,Qubo,Fiorino 1.3Mjt Dynamic 95,5990,250000,Manual,2015-01-01,Diésel,70 kW (95 CV),2015
+Pontiac,Solstice,,18900,56000,Automático,2007-02-01,Gasolina,- kW (- CV),2007
+Chrysler,300C,3.0CRD Executive Aut.,7990,245000,Automático,2010-06-01,Diésel,160 kW (218 CV),2010
+Land Rover,Range Rover Evoque,2.0TD4 SE Dynamic 4WD Aut. 150,17900,125000,Automático,2016-04-01,Diésel,110 kW (150 CV),2016
+Skoda,Octavia,2.0TDI CR Ambition,11900,100925,Manual,2015-04-01,Diésel,110 kW (150 CV),2015
+SEAT,Leon,1.6TDICR Reference Copa E-eco. S&S,7499,139999,Manual,2011-07-01,Diésel,77 kW (105 CV),2011
+Peugeot,208,1.2 PureTech S&S Active 82,7500,75000,Manual,2019-12-01,Gasolina,61 kW (83 CV),2019
+Mercedes-Benz,GLA 220,220CDI AMG Line 7G-DCT,18490,167000,Automático,2015-01-01,Diésel,125 kW (170 CV),2015
+Volvo,V40,D2 Kinetic Aut. 120,13990,87653,Automático,2017-07-01,Diésel,88 kW (120 CV),2017
+Opel,Corsa,1.2T XHL S/S Elegance 100,12985,16654,Manual,2022-01-01,Gasolina,74 kW (101 CV),2022
+Land Rover,Discovery,Expedition Td5 (138 CV) 7 asientos,12900,100000,Manual,2001-06-01,Diésel,101 kW (137 CV),2001
+Audi,A8,3.3TDI quattro Tiptronic,4500,296000,Automático,2000-01-01,Diésel,165 kW (224 CV),2000
+Mercedes-Benz,E 220,CDI,5500,320000,Manual,2002-01-01,Diésel,110 kW (150 CV),2002
+Audi,Q7,3.0TDI Ambition Tiptronic,15990,180000,Automático,2011-02-01,Diésel,176 kW (239 CV),2011
+Fiat,Qubo,Fiorino 1.3Mjt Dynamic 95,5990,250000,Manual,2015-01-01,Diésel,70 kW (95 CV),2015
+Pontiac,Solstice,,18900,56000,Automático,2007-02-01,Gasolina,- kW (- CV),2007
+Toyota,RAV 4,150D Advance 2WD,19450,80054,Manual,2016-08-01,Diésel,105 kW (143 CV),2016
+Chrysler,300C,3.0CRD Executive Aut.,7990,245000,Automático,2010-06-01,Diésel,160 kW (218 CV),2010
+Land Rover,Range Rover Evoque,2.0TD4 SE Dynamic 4WD Aut. 150,17900,125000,Automático,2016-04-01,Diésel,110 kW (150 CV),2016
+SEAT,Leon,1.6TDICR Reference Copa E-eco. S&S,7499,139999,Manual,2011-07-01,Diésel,77 kW (105 CV),2011
+Peugeot,208,1.2 PureTech S&S Active 82,7500,75000,Manual,2019-12-01,Gasolina,61 kW (83 CV),2019
+Mercedes-Benz,GLA 220,220CDI AMG Line 7G-DCT,18490,167000,Automático,2015-01-01,Diésel,125 kW (170 CV),2015
+Mazda,CX-5,2.2DE Style + Navegador 2WD,11999,189000,Manual,2016-01-01,Diésel,110 kW (150 CV),2016
+Volvo,V40,D2 Kinetic Aut. 120,13990,87653,Automático,2017-07-01,Diésel,88 kW (120 CV),2017
+Opel,Corsa,1.2T XHL S/S Elegance 100,12985,16654,Manual,2022-01-01,Gasolina,74 kW (101 CV),2022
+Land Rover,Discovery,Expedition Td5 (138 CV) 7 asientos,12900,100000,Manual,2001-06-01,Diésel,101 kW (137 CV),2001
+Audi,A8,3.3TDI quattro Tiptronic,4500,296000,Automático,2000-01-01,Diésel,165 kW (224 CV),2000
+Infiniti,Q50,3.5 Hybrid Premium Aut.,21900,99000,Automático,2019-05-01,Electro/Gasolina,268 kW (364 CV),2019
+Nissan,Qashqai,1.5dCi Acenta 4x2,8300,164949,Manual,2012-01-01,Diésel,81 kW (110 CV),2012
+Kia,Picanto,1.1 LX,3199,116000,Manual,2006-04-01,Gasolina,48 kW (65 CV),2006
+Mercedes-Benz,CLS 350,Shooting Brake BT 4M Aut.,22990,149999,Automático,2014-03-01,Diésel,185 kW (252 CV),2014
+DS Automobiles,DS 7 Crossback,E-Tense Be Chic Aut. 4x4,22690,67613,Automático,2020-07-01,Electro/Gasolina,220 kW (299 CV),2020
+Opel,Corsa,1.2T XHT S/S GS-Line + AT8 130,12400,41152,Automático,2021-09-01,Gasolina,96 kW (131 CV),2021
+BMW,218,218iA Gran Coupé,23900,96400,Automático,2021-01-01,Gasolina,100 kW (136 CV),2021
+Kia,Stonic,1.2 DPi Drive,15400,14508,Manual,2023-06-01,Gasolina,62 kW (84 CV),2023
+SEAT,Ibiza,1.6TDI CR Copa Style DPF,6490,134000,Manual,2011-03-01,Diésel,66 kW (90 CV),2011
+Kia,Sportage,1.6 GDi x-Tech17 4x2,12990,114000,Manual,2018-01-01,Gasolina,97 kW (132 CV),2018
+Alfa Romeo,Spider,2.0 JTS,7990,117000,Manual,2004-06-01,Gasolina,121 kW (165 CV),2004
+Mercedes-Benz,CLK 200,280,9990,147000,Manual,2007-06-01,Gasolina,170 kW (231 CV),2007
+Audi,A4,Avant 2.0TDI 110kW,14900,216980,Manual,2018-04-01,Diésel,110 kW (150 CV),2018
+Hyundai,i10,1.0 MPI Klass,7490,95105,Manual,2019-05-01,Gasolina,49 kW (67 CV),2019
+Ford,Puma,1.0 EcoBoost 125cv Titanium MHEV,14140,45552,Manual,2022-08-01,Electro/Gasolina,92 kW (125 CV),2022
+Mercedes-Benz,GLS 350,350d 4Matic Aut.,44990,120000,Automático,2019-06-01,Diésel,190 kW (258 CV),2019
+SEAT,Arona,1.0 TSI S&S FR XM 110,16890,6182,Manual,2023-06-01,Gasolina,81 kW (110 CV),2023
+Ford,Focus,1.0 Ecoboost 125CV MHEV ST-Line,14700,59346,Manual,2022-01-01,Electro/Gasolina,92 kW (125 CV),2022
+Jaguar,F-Type,Coupé 3.0 V6 Aut. 340,39900,72000,Automático,2016-03-01,Gasolina,250 kW (340 CV),2016
+Lexus,NX 300,300h Executive 4WD,22350,135000,Automático,2017-04-01,Electro/Gasolina,145 kW (197 CV),2017
+Opel,Corsa,1.2T XHL 74kW (100CV) GS,13900,7943,Manual,2024-04-01,Gasolina,74 kW (101 CV),2024
+Mercedes-Benz,GLK 220,220CDI BE 4M Aut.,13900,178977,Automático,2011-01-01,Diésel,125 kW (170 CV),2011
+Ford,Focus,1.0 Ecoboost Auto-S&S Trend+ 125,7995,110000,Manual,2014-11-01,Gasolina,92 kW (125 CV),2014
+Hyundai,TUCSON,KLASS 1.6 TGDI 150CV,20990,11660,Manual,2024-04-01,Gasolina,110 kW (150 CV),2024
+Kia,Sportage,1.7CRDi Drive,9990,150000,Manual,2012-02-01,Diésel,85 kW (116 CV),2012
+Kia,Sportage,1.7CRDi Drive,9990,150000,Manual,2012-02-01,Diésel,85 kW (116 CV),2012
+Renault,Megane,1.5DCi Confort Dynamique,3750,204037,Manual,2004-02-01,Diésel,59 kW (80 CV),2004
+Kia,EV6,Long Range Air RWD 168kW,31630,11362,Automático,2023-06-01,Electro/Gasolina,168 kW (228 CV),2023
+Nissan,Qashqai,1.2 DIG-T Acenta 4x2,12490,68518,Manual,2016-10-01,Gasolina,85 kW (116 CV),2016
+SEAT,Ibiza,1.0 MPI Evo S&S Style XM 80,13990,23881,Manual,2024-04-01,Gasolina,59 kW (80 CV),2024
+Mercedes-Benz,GLA 200,200d 7G-DCT,20990,110000,Automático,2019-11-01,Diésel,100 kW (136 CV),2019
+Land Rover,Range Rover Evoque,2.0TD4 HSE 4WD Aut. 150,16500,130000,Automático,2018-12-01,Diésel,110 kW (150 CV),2018
+Mercedes-Benz,E 220,,33701,32000,Automático,2021-03-01,Diésel,143 kW (194 CV),2021
+Opel,Corsa,1.3 ecoFlex C Mon,5999,69800,Manual,2011-04-01,Diésel,55 kW (75 CV),2011
+Audi,A5,Sportback 1.8 TFSI S line edition 177,15500,150000,Manual,2016-10-01,Gasolina,130 kW (177 CV),2016
+Porsche,Cayenne,Diesel Platinum Edition Aut.,29990,182692,Automático,2017-10-01,Diésel,193 kW (262 CV),2017
+Renault,Kangoo,Combi 1.5dCi Blue Profesional 70kW,8917,150000,Manual,2021-02-01,Diésel,70 kW (95 CV),2021
+Volkswagen,ID.3,1st Max 150 kW (204 CV) (E113MJ13),18790,29361,Automático,2020-10-01,Electro/Gasolina,150 kW (204 CV),2020
+Toyota,C-HR,1.8 125H Advance,20360,96447,Automático,2023-03-01,Electro/Gasolina,90 kW (122 CV),2023
+MG,ZS,1.5 VTi-Tech Comfort 78kW,15290,4290,Manual,2024-10-01,Gasolina,78 kW (106 CV),2024
+Renault,Fluence,1.5dCi Dynamique 110 eco2,4300,270084,Manual,2012-05-01,Diésel,81 kW (110 CV),2012
+Skoda,Octavia,1.5 TSI MHEV Selection DSG,24900,16380,Automático,2024-03-01,Gasolina,110 kW (150 CV),2024
+Mercedes-Benz,A 140,Elegance,2600,170000,Manual,1998-04-01,Gasolina,60 kW (82 CV),1998
+Opel,Corsa,1.4 Expression 75,6750,41416,Manual,2017-01-01,Gasolina,55 kW (75 CV),2017
+Porsche,Macan,Turbo,122999,6000,Automático,2024-09-01,Electro/Gasolina,470 kW (639 CV),2024

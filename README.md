@@ -1,29 +1,37 @@
-# “I want a car!”
+# 🚗 "I Want a Car!"
 
-Fer, our teacher, needs a new car. He's trying to buy one from the AutoScout24 website, so we are going to help him choose wisely with some data.
+Fer, our teacher, needs a new car! He's exploring options on AutoScout24, and we're here to help him make an informed decision through data analysis.
 
-## Project Description
+---
 
-This project consists of:
+## 📖 Project Description
 
-1. Scraping a website about cars.
-2. Creating a DataFrame with the obtained data.
-3. Transforming the DataFrame.
-4. Visualizing the DataFrame.
+This project involves:
 
-## Project Structure
+1. **Scraping** car data from a website.
+2. **Creating** a structured DataFrame with the collected data.
+3. **Transforming** the DataFrame for analysis.
+4. **Visualizing** insights from the data.
 
-- `data`: Folder where raw and processed data are stored in .csv format.
-- `images`: Folder where visualizations are stored in .html format.
-- `src`: Folder containing the scripts for scraping, transformation, exploration, and visualization.
+---
 
-## Features
+## 📂 Project Structure
 
-- Vehicle registration
-- Updating vehicle information
-- Consulting vehicle information
+- **`data/`**: Contains raw and processed data in `.csv` format.
+- **`images/`**: Stores visualizations in `.html` format.
+- **`src/`**: Includes scripts for scraping, transformation, exploration, and visualization.
 
-## Installation
+---
+
+## ✨ Features
+
+- **Vehicle Registration**: Add new vehicles to the database.
+- **Update Information**: Modify existing vehicle details.
+- **Consult Information**: Retrieve and analyze vehicle data.
+
+---
+
+## ⚙️ Installation
 
 1. Clone the repository:
 
@@ -34,16 +42,18 @@ This project consists of:
 2. Navigate to the project directory:
 
     ```bash
-    cd tu_coche
+    cd i_want_a_car
     ```
 
-3. Install the dependencies:
+3. Install the required dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-## Usage
+---
+
+## 🚀 Usage
 
 1. Start the application:
 
@@ -51,14 +61,39 @@ This project consists of:
     python main.py
     ```
 
-## Contribution
+---
 
-1. Fork the project.
-2. Create a new branch (`git checkout -b feature/new-feature`).
-3. Make your changes and commit them (`git commit -am 'Add new feature'`).
-4. Push your changes (`git push origin feature/new-feature`).
-5. Open a Pull Request.
+## 🤝 Contribution
 
-## License
+We welcome contributions! Follow these steps:
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+1. Fork the repository.
+2. Create a new branch:
+
+    ```bash
+    git checkout -b feature/new-feature
+    ```
+
+3. Make your changes and commit them:
+
+    ```bash
+    git commit -am 'Add new feature'
+    ```
+
+4. Push your changes:
+
+    ```bash
+    git push origin feature/new-feature
+    ```
+
+5. Open a Pull Request for review.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+Happy coding! 🚀
