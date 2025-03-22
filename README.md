@@ -8,6 +8,7 @@ Help Fer choose the perfect car through data-driven analysis! This project scrap
 
 ## 📂 Project Structure
 
+```
 i_want_a_car/
 ├── data/                 # Raw and processed .csv files
 ├── images/               # Visualization outputs (.html)
@@ -19,6 +20,7 @@ i_want_a_car/
 ├── requirements.txt      # Dependencies
 ├── .gitignore            # Exclude unnecessary files
 └── README.md             # Project documentation
+```
 
 ---
 
